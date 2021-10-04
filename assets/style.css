@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding:0;
+    margin:0
+}
+
+label{
+    font-size: 34px;
+}
+
+.jumbotron{
+    background-color:teal;
+    color:white;
+    margin-bottom: 0px;
+}
+
+/* #search-btn{
+    margin:auto 0;
+    border-top: 50px;
+} */
